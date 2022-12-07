@@ -8,6 +8,7 @@
 - Dapps have complex UI/UX - Web3 dAapps are very complex and difficult for the average user to use.
 - Low User Retention - Users visit the website but then are intimidated by the complex functionality.
 - High CAC for Dapps - This results in high CAC for dApps and creates challenges for user retention.
+- Privacy-focused wallet-based analytics - User privacy is not kept in mind while tracking them.
 
 To tackle all these issues, we are building - A no-code tool to create - Gamified & Incentivized Immersive Product experiences via Layovers. 
 
