@@ -98,9 +98,6 @@ Code Buildoor - **Ghazala Mirani** \
 Role: Web3 & Tech Lead & Full Stack Developer \
 Twitter: https://twitter.com/ghazalamirani
 
-Brand Buildoor - **Somnath Khandekar** \
-Branding & Marketing Lead \
-Twitter: https://twitter.com/skhandekar2904
 
 ## Links
 **Website**: www.buildoor.xyz
